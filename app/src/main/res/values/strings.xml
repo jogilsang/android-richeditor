@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rich-editor</string>
+    <string name="title_activity_main">RichEditor Demo</string>
+
+</resources>
